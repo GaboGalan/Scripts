@@ -1,4 +1,4 @@
-# Scripts
+# LEER ESTA NOTA
 # Adjunto 3 scripts que son funcionalidades de las 3 partes que pidió por separado
 # La parte de guardar los resultados del nmap en una BD no funciona, pero esta el intentó en el archivo 
 
